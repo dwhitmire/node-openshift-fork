@@ -1,5 +1,5 @@
 var mongoose = require('mongoose');
-mongoose.connect('mongodb://dwhitmire:thisismypasswordanditislong@mongodb/sampledb');
+mongoose.connect('mongodb://user6AX:qamM7HlI7UdSFfmg@mongodb/sampledb');
 
 
 var db = mongoose.connection;
